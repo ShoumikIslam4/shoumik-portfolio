@@ -6,14 +6,14 @@ const Projects = () => {
     {
       title: 'AI SaaS Platform',
       description: 'Next-gen AI-powered analytics dashboard with real-time insights and predictive modeling',
-      tech: ['Next.js', 'TensorFlow', 'WebGL', 'Node.js'],
+      tech: ['React', 'Tailwind', 'Html'],
       gradient: 'from-cyan-500 via-blue-500 to-purple-500',
       featured: true
     },
     {
       title: 'Crypto Exchange',
       description: 'High-frequency trading platform with advanced charting and portfolio management',
-      tech: ['React', 'WebSocket', 'Redis', 'PostgreSQL'],
+      tech: ['React', 'Tailwind', 'Redis', 'PostgreSQL'],
       gradient: 'from-purple-500 via-pink-500 to-rose-500',
       featured: true
     },
@@ -34,6 +34,13 @@ const Projects = () => {
     {
       title: 'Healthcare Portal',
       description: 'HIPAA-compliant telemedicine platform with appointment scheduling',
+      tech: ['Angular', 'Django', 'PostgreSQL', 'Twilio'],
+      gradient: 'from-blue-500 via-indigo-500 to-purple-500',
+      featured: false
+    },
+    {
+      title: 'Web Code Agency',
+      description: 'Real-time social platform with video streaming and content discovery',
       tech: ['Angular', 'Django', 'PostgreSQL', 'Twilio'],
       gradient: 'from-blue-500 via-indigo-500 to-purple-500',
       featured: false
