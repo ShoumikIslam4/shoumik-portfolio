@@ -12,9 +12,9 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: <Mail />, label: 'Email', value: 'hello@dev.com', href: 'mailto:hello@dev.com' },
-    { icon: <Github />, label: 'GitHub', value: '@yourprofile', href: '#' },
-    { icon: <Linkedin />, label: 'LinkedIn', value: 'yourprofile', href: '#' },
+    { icon: <Mail />, label: 'Email', value: 'info.soumikk@gmail.com', href: 'mailto:hello@dev.com' },
+    { icon: <Github />, label: 'GitHub', value: 'ShoumikIslam4', href: 'https://github.com/ShoumikIslam4' },
+    { icon: <Linkedin />, label: 'LinkedIn', value: 'Shoumik Islam', href: 'https://www.linkedin.com/in/shoumik-islam-171147374/' },
   ];
 
   return (

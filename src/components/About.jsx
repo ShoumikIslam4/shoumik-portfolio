@@ -77,9 +77,9 @@ const FloatingDot = ({ style }) => (
 /* ─── Vertical Social Sidebar (right edge) ─── */
 const SocialSidebar = () => {
   const links = [
-    { icon: <Twitter size={14} />, href: '#' },
-    { icon: <Instagram size={14} />, href: '#' },
-    { icon: <Linkedin size={14} />, href: '#' },
+    { icon: <Twitter size={14} />, href: 'https://x.com/soumik0111' },
+    { icon: <Instagram size={14} />, href: 'https://www.instagram.com/soumik_islam_0/' },
+    { icon: <Linkedin size={14} />, href: 'https://www.linkedin.com/in/shoumik-islam-171147374/' },
   ];
 
   return (

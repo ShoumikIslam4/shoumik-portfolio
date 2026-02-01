@@ -43,7 +43,7 @@ const Home = () => {
 
         <div className="space-y-4 mb-12">
           <h1 className="text-6xl md:text-8xl font-black tracking-tighter leading-none animate-slide-up">
-            <span className="block text-white">CREATIVE</span>
+            <span className="block text-white">FRONTEND</span>
             <span className="block bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-gradient">
               DEVELOPER
             </span>
