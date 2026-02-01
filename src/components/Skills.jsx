@@ -82,7 +82,7 @@ const ExpressIcon = () => (
 
 /* ───────────────── SKILLS DATA ───────────────── */
 const row1 = [
-  { Icon: TailwindIcon, name: 'TAILWIND', desc: 'Simplifies styling with utility classes.' },
+  { Icon: TailwindIcon, name: 'TAILWIND CSS', desc: 'Simplifies styling with utility classes.' },
   { Icon: TypeScriptIcon, name: 'TYPESCRIPT', desc: 'Adds static typing to JavaScript for safer code.' },
   { Icon: ReactIcon, name: 'REACT JS', desc: 'Builds dynamic user interfaces.' },
   { Icon: HTMLIcon, name: 'HTML', desc: 'Structures web content.' },
