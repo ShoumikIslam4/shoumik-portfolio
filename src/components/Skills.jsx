@@ -82,26 +82,21 @@ const ExpressIcon = () => (
 
 /* ───────────────── SKILLS DATA ───────────────── */
 const row1 = [
-  { Icon: TailwindIcon, name: 'TAILWIND CSS', desc: 'Simplifies styling with utility classes.' },
-  { Icon: ReactIcon, name: 'REACT JS', desc: 'Builds dynamic user interfaces.' },
-  { Icon: TypeScriptIcon, name: 'JavaScript', desc: 'Adds static typing to JavaScript for safer code.' },
-  { Icon: CSSIcon, name: 'CSS', desc: 'Styles and formats websites.' },
-  { Icon: TailwindIcon, name: 'TAILWIND CSS', desc: 'Simplifies styling with utility classes.' },
+  { Icon: TailwindIcon, name: 'TAILWIND', desc: 'Simplifies styling with utility classes.' },
+  { Icon: TypeScriptIcon, name: 'JAVASCRIPT', desc: 'Adds static typing to JavaScript for safer code.' },
   { Icon: ReactIcon, name: 'REACT JS', desc: 'Builds dynamic user interfaces.' },
   { Icon: HTMLIcon, name: 'HTML', desc: 'Structures web content.' },
   { Icon: CSSIcon, name: 'CSS', desc: 'Styles and formats websites.' },
 ];
 
 const row2 = [
-  { Icon: TailwindIcon, name: 'TAILWIND', desc: 'Simplifies styling with utility classes.' },
-  { Icon: ReactIcon, name: 'REACT JS', desc: 'Builds dynamic user interfaces.' },
-  { Icon: TypeScriptIcon, name: 'JavaScript', desc: 'Adds static typing to JavaScript for safer code.' },
-  { Icon: CSSIcon, name: 'CSS', desc: 'Styles and formats websites.' },
-  { Icon: TailwindIcon, name: 'TAILWIND CSS', desc: 'Simplifies styling with utility classes.' },
-  { Icon: ReactIcon, name: 'REACT JS', desc: 'Builds dynamic user interfaces.' },
-  { Icon: HTMLIcon, name: 'HTML', desc: 'Structures web content.' },
-  { Icon: CSSIcon, name: 'CSS', desc: 'Styles and formats websites.' },
+  { Icon: MongoDBIcon, name: 'MONGODB', desc: 'Stores data in a NoSQL format.' },
+  { Icon: FirebaseIcon, name: 'FIREBASE', desc: 'Provides authentication, database for apps.' },
+  { Icon: NodeJSIcon, name: 'NODE JS', desc: 'Runs JavaScript on the server.' },
+  { Icon: SQLIcon, name: 'SQL', desc: 'Manages and queries structured data efficiently.' },
+  { Icon: ExpressIcon, name: 'EXPRESS JS', desc: 'Lightweight framework for server-side applications.' },
 ];
+
 /* ───────────────── SINGLE CARD ───────────────── */
 const SkillCard = ({ Icon, name, desc }) => (
   <div className="flex-shrink-0 w-64 bg-[#1a1f2e] border border-[#2a3144] rounded-2xl p-5 flex flex-col gap-3 hover:border-cyan-500/40 hover:bg-[#1e2638] transition-all duration-300">

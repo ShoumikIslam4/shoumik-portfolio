@@ -150,9 +150,9 @@ const About = () => {
             </p>
 
             <h2 className="text-4xl md:text-5xl font-bold text-white leading-snug">
-              Hey There,This is{' '}
+              Hey There, This Is {' '}
               <span className="bg-gradient-to-r from-cyan-400 via-sky-400 to-blue-400 bg-clip-text text-transparent">
-              Shoumik.
+                Shoumik
               </span>
             </h2>
 
@@ -200,7 +200,6 @@ const About = () => {
                 width: '280px', height: '360px',
                 borderRadius: '50%',
                 padding: '3px',
-                background: 'linear-gradient(135deg, #1e1b4b 100%)',
               }}
             >
               <div className=" rounded-full overflow-hidden" style={{ background: '#0f1e3a' }}>

@@ -12,7 +12,7 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: <Mail />, label: 'Email', value: 'info.soumikk@gmail.com', href: 'mailto:hello@dev.com' },
+    { icon: <Mail />, label: 'Email', value: 'info.soumikk@gmail.com', href: 'info.soumikk@gmail.com' },
     { icon: <Github />, label: 'GitHub', value: 'ShoumikIslam4', href: 'https://github.com/ShoumikIslam4' },
     { icon: <Linkedin />, label: 'LinkedIn', value: 'Shoumik Islam', href: 'https://www.linkedin.com/in/shoumik-islam-171147374/' },
   ];
