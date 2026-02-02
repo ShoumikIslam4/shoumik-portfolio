@@ -4,26 +4,13 @@ import { ArrowRight, ExternalLink } from 'lucide-react';
 /* ───────────────── PROJECT DATA ───────────────── */
 const projects = [
   {
-    title: 'EquiSports - Sports Equipment Online Store',
-    description: 'EquiSports is an online platform offering a wide range of premium sports equipment for athletes and fitness enthusiasts.',
-    image: '/projects/project1.jpg', // project's screenshot
+    title: 'EasyMart – Your One-Stop Grocery Destination',
+    description: 'EasyMart is an online grocery shopping platform that makes your grocery shopping experience effortless, fast, and enjoyable. With lightning-fast delivery and convenient pickup options, we bring fresh, high-quality groceries right to your doorstep.',
+    image: '/Images/EquiSports - Sports Equipment Online Store.webp', // project's screenshot
     tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
     link: '#',
   },
-  {
-    title: 'Tastr - Restaurant Management System',
-    description: 'The purpose of this project is to provide a seamless platform for food enthusiasts to explore and order from their favorite restaurants.',
-    image: '/projects/project2.jpg',
-    tags: ['Next.js', 'PostgreSQL', 'Tailwind', 'AWS'],
-    link: '#',
-  },
-  {
-    title: 'Jambr Organix - Organic Food Online Store',
-    description: 'Jambr Organix sea moss gel is incredibly versatile. You can add it to smoothies, teas, or even use it as a natural thickener.',
-    image: '/projects/project3.jpg',
-    tags: ['React', 'Firebase', 'Stripe', 'Framer'],
-    link: '#',
-  },
+  
 ];
 
 /* ───────────────── SINGLE PROJECT CARD ───────────────── */
