@@ -145,7 +145,7 @@ const About = () => {
 
           {/* ════ LEFT — Text ════ */}
           <div className="space-y-5 relative z-10">
-            <p className="text-cyan-400 text-sm font-semibold tracking-wider">
+            <p className="text-cyan-400 md:mt-1 mt-6 text-sm font-semibold tracking-wider">
               Welcome to my portfolio!
             </p>
 

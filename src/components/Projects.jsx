@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'EasyMart – Your One-Stop Grocery Destination',
     description: 'EasyMart is an online grocery shopping platform that makes your grocery shopping experience effortless, fast, and enjoyable. With lightning-fast delivery and convenient pickup options, we bring fresh, high-quality groceries right to your doorstep.',
-    image: '/Images/EquiSports - Sports Equipment Online Store.webp', // project's screenshot
+    image: 'https://i.ibb.co.com/CK4218zF/Equi-Sports-Sports-Equipment-Online-Store.webp', // project's screenshot
     tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
     link: '#',
   },
