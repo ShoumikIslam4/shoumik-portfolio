@@ -205,7 +205,7 @@ const About = () => {
             >
               <div className=" rounded-full overflow-hidden" style={{ background: '#0f1e3a' }}>
                 <img
-                  src="/Images/1769886479042.png"
+                  src="https://i.ibb.co.com/yFhrb015/1769886479042.png"
                   alt="Profile"
                   className="w-50 h-full object-cover"
                   style={{ objectPosition: 'center top' }}
